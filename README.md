@@ -1,31 +1,32 @@
+<h1 align="center">Hi 👋, I'm Muhammad Gumilang Tamasakti</h1>
+<h3 align="center">A passionate Front-End Developer & UI Designer Enthusiast from Indonesia</h3>
 
-👋 Hi, I’m Muhammad Gumilang Tamasakti, you can call me @tamasakti
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamasakti&label=Profile%20views&color=0e75b6&style=flat" alt="tamasakti" /> </p>
 
-<hr />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamasakti" alt="tamasakti" /></a> </p>
 
-Hi, i'm <a href="https://tamasakti.vercel.app/">tamasakti</a>, and Front-End Developers focusing on ReactJS, TypeScript, NextJs, and Responsive Design Development. Mostly I Developed my Project Using various technologies and tools, for building prototypes, I'm using design tools such as; Figma, Adobe Illustrator, and Photoshop. For programming and building a web app, I'm using Reactjs, NextJS, and Typescript language, and for styling components, I'm using TailwindCSS and Daisy UI to beautify my web app. With a passion for both personal growth and software development, I attended 640+ hours of Coding Bootcamp and training to learn new languages while sharpening existing skills.
+- 🌱 I’m currently learning **I’m currently learning Javascript, ReactJS, TypeScript, NextJS and UI/UX for Front-End Development**
 
- # :hammer: Languages, Libraries and Tools
- 
-<div align="center">
+- 👨‍💻 All of my projects are available at [tamasakti.vercel.app](tamasakti.vercel.app)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/DaisyUi-FFFF00?style=for-the-badge&logo=daisyui&logoColor=white" />
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-<img src="https://img.shields.io/badge/Sweet Alert-7D4698?style=for-the-badge&logo=Sweet-Alert&logoColor=white" />
+- 💬 Ask me about **anything**
 
-</div>
+- 📫 How to reach me **https://www.linkedin.com/in/tamasakti/**
 
+- 📄 Know about my experiences [Front-End Developers focusing on ReactJS, TypeScript, NextJs, and Responsive Design Development. After having several experiences collaborating effectively with the Backend and Quality Engineer team, integrating REST API, and finding bugs.](Front-End Developers focusing on ReactJS, TypeScript, NextJs, and Responsive Design Development. After having several experiences collaborating effectively with the Backend and Quality Engineer team, integrating REST API, and finding bugs.)
 
-- 🌱 I’m currently learning Javascript, ReactJS, TypeScript, NextJS and UI/UX for Front-End Development
-- 💞️ I’m looking to collaborate on Open Source Project
-- 📫 How to reach me : https://www.linkedin.com/in/gumilangtamasakti/ and @gumilangtama on Instagram
+- ⚡ Fun fact **I Love Simple and Clean Design**
 
-<!---
-tamasakti/tamasakti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tamasakti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamasakti" height="30" width="40" /></a>
+<a href="https://instagram.com/gumilangtama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gumilangtama" height="30" width="40" /></a>
+<a href="https://dribbble.com/gumilangtama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gumilangtama" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamasakti&show_icons=true&locale=en&layout=compact" alt="tamasakti" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamasakti&show_icons=true&locale=en" alt="tamasakti" /></p>
