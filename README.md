@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/tamasakti/**
 
-- 📄 Know about my experiences [Front-End Developers focusing on ReactJS, TypeScript, NextJs, and Responsive Design Development. After having several experiences collaborating effectively with the Backend and Quality Engineer team, integrating REST API, and finding bugs.](Front-End Developers focusing on ReactJS, TypeScript, NextJs, and Responsive Design Development. After having several experiences collaborating effectively with the Backend and Quality Engineer team, integrating REST API, and finding bugs.)
+- 📄 Know about my experiences : Front-End Developers focusing on ReactJS, TypeScript, NextJs, and Responsive Design Development. After having several experiences collaborating effectively with the Backend and Quality Engineer team, integrating REST API, and finding bugs.(Front-End Developers focusing on ReactJS, TypeScript, NextJs, and Responsive Design Development. After having several experiences collaborating effectively with the Backend and Quality Engineer team, integrating REST API, and finding bugs.)
 
 - ⚡ Fun fact **I Love Simple and Clean Design**
 
